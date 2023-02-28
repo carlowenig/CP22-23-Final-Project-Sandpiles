@@ -1,5 +1,5 @@
 # Cellular Automata for Sandpiles
-This is our project report for the Computational Physics course (Winter Term 2022/23, University of Bonn).
+This is the project report for the Computational Physics course (Winter Term 2022/23, University of Bonn) of Anna Heyn and Carlo Wenig.
 
 ## Contents of this Repository
 This repository contains two Jupyter notebooks:
